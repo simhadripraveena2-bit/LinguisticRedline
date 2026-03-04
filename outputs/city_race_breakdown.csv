@@ -1,0 +1,44 @@
+city,dominant_race,mean_numeric_score
+Chicago,white,7.548387096774194
+Chicago,mixed,7.0
+Chicago,hispanic,6.9375
+Chicago,black,6.30188679245283
+Chicago,asian,6.0
+Dallas,asian,8.0
+Dallas,white,7.294117647058823
+Dallas,mixed,6.761904761904762
+Dallas,hispanic,6.67741935483871
+Dallas,black,6.583333333333333
+Houston,white,7.382352941176471
+Houston,mixed,6.857142857142857
+Houston,hispanic,6.472222222222222
+Houston,black,6.235294117647059
+Houston,asian,6.0
+Los Angeles,white,7.3559322033898304
+Los Angeles,asian,7.090909090909091
+Los Angeles,black,7.0
+Los Angeles,mixed,6.882352941176471
+Los Angeles,hispanic,6.760869565217392
+New York,white,6.794117647058823
+New York,black,6.769230769230769
+New York,asian,6.5
+New York,mixed,6.5
+New York,hispanic,6.216216216216216
+Philadelphia,white,7.064935064935065
+Philadelphia,mixed,6.2105263157894735
+Philadelphia,black,6.136986301369863
+Philadelphia,hispanic,6.0
+Phoenix,white,7.032679738562091
+Phoenix,mixed,6.181818181818182
+Phoenix,hispanic,6.111111111111111
+San Antonio,white,7.2368421052631575
+San Antonio,hispanic,6.357142857142857
+San Antonio,mixed,6.333333333333333
+San Diego,asian,7.5
+San Diego,white,7.307086614173229
+San Diego,mixed,7.142857142857143
+San Diego,hispanic,6.780487804878049
+San Jose,asian,7.898305084745763
+San Jose,white,7.846153846153846
+San Jose,hispanic,7.586206896551724
+San Jose,mixed,7.5

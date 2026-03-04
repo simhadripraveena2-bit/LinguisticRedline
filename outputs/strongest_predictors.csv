@@ -1,0 +1,13 @@
+factor_level,mean_numeric_score,factor
+San Jose,7.72,city
+high,7.676082862523541,income_bucket
+upper_middle,7.551487414187643,income_bucket
+asian,7.548387096774194,dominant_race
+white,7.255648038049941,dominant_race
+San Diego,7.18,city
+Chicago,7.05,city
+Los Angeles,6.98,city
+commercial_mixed,6.933753943217666,amenity_bucket
+Dallas,6.92,city
+community_rich,6.857142857142857,amenity_bucket
+Houston,6.84,city

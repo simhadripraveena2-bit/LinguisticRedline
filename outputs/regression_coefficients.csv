@@ -1,0 +1,24 @@
+feature,coefficient
+vacancy_rate,-4.697983551890735
+income_bucket_lower_middle,-1.5747898754643679
+income_bucket_low,-1.4372142355099409
+income_bucket_middle,-1.126081264890776
+city_New York,-0.5547191537181738
+city_Phoenix,-0.3622863042861496
+city_Los Angeles,-0.27579910837795746
+city_Philadelphia,-0.2562074961962541
+city_San Diego,-0.23138375333207015
+city_San Antonio,-0.21471968083381218
+amenity_bucket_community_rich,0.1728178868896907
+dominant_race_mixed,-0.1709183638286731
+income_bucket_upper_middle,-0.12929210189357748
+city_Dallas,-0.1262062906062909
+city_San Jose,-0.11746226670884957
+dominant_race_hispanic,-0.10600919082104933
+city_Houston,-0.09533384929775707
+dominant_race_white,0.02308065727327572
+dominant_race_black,0.020583045906239286
+pct_black,0.0051001229760903296
+pct_asian,0.004404858454724002
+pct_hispanic,0.004022839801009304
+pct_white,0.003140353586739149
