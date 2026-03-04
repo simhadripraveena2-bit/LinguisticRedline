@@ -32,12 +32,17 @@ def load_data() -> pd.DataFrame:
 
 def query_live_score(description: str) -> str:
     """Fetch a live Groq crime-risk score for a custom description."""
-    config = load_config()
-    api_key = config.get("groq_api_key", "")
-    model = config.get("groq_model", "llama-3.1-8b-instant")
+    try:
+        api_key = st.secrets["groq_api_key"]
+        model = st.secrets.get("groq_model", "llama-3.1-8b-instant")
+    except Exception:
+        # fallback to config.yaml for local development
+        config = load_config()
+        api_key = config.get("groq_api_key", "")
+        model = config.get("groq_model", "llama-3.1-8b-instant")
 
     if not api_key or api_key == "YOUR_KEY_HERE":
-        return "groq_api_key is not set in config.yaml."
+        return "groq_api_key is not set."
 
     client = Groq(api_key=api_key)
     prompt = (
