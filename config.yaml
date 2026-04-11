@@ -1,0 +1,30 @@
+census_api_key: "YOUR_KEY"
+groq_api_key: "YOUR_KEY"
+
+cities:
+  - New York
+  - Los Angeles
+  - Chicago
+  - Houston
+  - Phoenix
+  - Philadelphia
+  - San Antonio
+  - San Diego
+  - Dallas
+  - San Jose
+
+census_year: 2022
+min_population: 500
+
+amenity_score_threshold:
+  community_rich: 3
+  financially_underserved: -1
+
+osm_cache_dir: "data/osm_cache"
+
+groq_model: "llama-3.1-8b-instant"
+
+osm_max_workers: 5
+osm_timeout_per_tract: 10
+osm_request_delay: 0.5
+sample_per_city: 200
