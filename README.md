@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status: Research](https://img.shields.io/badge/status-Research-orange)
 
+## Live Demo
+
+**[LinguisticRedline Dashboard](https://linguisticredline-pwgqbht9wjhm5x7gsoahjm.streamlit.app/)**
+
 ## Table of Contents
 
 - [Overview](#overview)
